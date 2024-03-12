@@ -2,6 +2,9 @@
 
 This repository contains a study on salaries in data scientists' roles using supervised learning techniques. It also includes a study of the database considering linear, simple, and multivariate models.
 
+- Course: Statistical Learning
+- Grade: 9.8/10
+
 ## Techniques Used
 
 - Quadratic Discriminant Analysis (QDA)
