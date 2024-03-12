@@ -4,6 +4,7 @@ This repository contains a study on salaries in data scientists' roles using sup
 
 - Course: Statistical Learning
 - Grade: 9.8/10
+- Language: R Language
 
 ## Techniques Used
 
